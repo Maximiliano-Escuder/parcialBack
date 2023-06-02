@@ -35,7 +35,7 @@
 			eurekaServer
 		</module>
 		<module>
-			gateway
+			api-gateway
 		</module>
 	</modules>
 
