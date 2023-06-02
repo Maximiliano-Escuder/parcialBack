@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Maximiliano-Escuder/parcialBack1
+          uri: https://github.com/Maximiliano-Escuder/parcialBack
           default-label: main
           force-pull: true
           search-paths: configData
