@@ -9,6 +9,6 @@ spring:
       server:
         git:
           uri: https://github.com/Maximiliano-Escuder/parcialBack
-          default-label: main
+          default-label: master
           force-pull: true
           search-paths: configData
