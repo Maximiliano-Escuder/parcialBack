@@ -1,6 +1,6 @@
 spring:
   application:
-    name: api-course
+    name: api-catalog
   cloud:
     config:
       enabled: true
