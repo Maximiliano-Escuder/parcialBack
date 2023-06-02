@@ -3,15 +3,15 @@ server:
 spring:
   application:
     name: api-catalog
-#  datasource:
-#    driverClassName: com.mysql.jdbc.Driver
-#    url: jdbc:mysql://127.0.0.1:3306/parcialback
-#    username: root
-#    password: ProyectoFinal
-#  jpa:
-#    hibernate.ddl-auto: update
-#    generate-ddl: true
-#    show-sql: true
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/parcialback
+    username: root
+    password: ProyectoFinal
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
 
 info:
   application:
